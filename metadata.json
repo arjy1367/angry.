@@ -1,12 +1,10 @@
 {
   "name": "Angry Man Token",
   "symbol": "Angry",
-  "decimals": 3,
-  "mintAddress": "Cpwx2kBrvjNaU4o9VJ9Hgv3y3F51u6NyYQDg3hdcACbt",
+  "decimals": 5,
   "supply": "999999999999",
   "image":"https://github.com/arjy1367/angry./blob/main/angrymancoin.png"
   "disdescription: `ANGRY MAN COIN.\n\nTELEGRAM: https://t.me/ANGRYMANcoinofficial  \nTWITTER:https://x.com/ANGRYMANcoin  \n WEBSITE:https://www.angrymancoin.com/",
-  "uri": "QmfR8pRN29dPi2QoW38ecL3HqULbaRvFVMJsjSWrpLRDje",
   "sellerFeeBasisPoints": 0,
   "creators": null
 }
